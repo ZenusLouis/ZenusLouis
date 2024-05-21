@@ -70,9 +70,6 @@ A fully functional e-commerce website built with Next.js and Node.js.
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/zenuslouis/)
-- [Twitter](https://twitter.com/ZenusLouis)
-- [Personal Website](https://zenuslouis.com)
 
 ## 📜 License
 
