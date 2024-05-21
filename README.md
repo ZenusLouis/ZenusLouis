@@ -16,7 +16,7 @@ Hello! I'm ZenusLouis, a passionate Full Stack Web Developer with a keen interes
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with deploying full stack applications.
 - 💬 Ask me about anything related to web development.
-- ⚡ Fun fact: I love playing chess and solving puzzles.
+- ⚡ Fun fact: I love playing some games and solving puzzles.
 
 ## 🛠️ Technologies & Tools
 
