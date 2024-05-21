@@ -1,7 +1,12 @@
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 # Welcome to ZenusLouis's GitHub Profile! 👋
 
 Hello! I'm ZenusLouis, a passionate Full Stack Web Developer with a keen interest in creating efficient and scalable web applications. Welcome to my GitHub profile!
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ## About Me
 
 - 🌱 I’m currently learning advanced React and Node.js.
@@ -26,8 +31,11 @@ Hello! I'm ZenusLouis, a passionate Full Stack Web Developer with a keen interes
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dot-net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -41,12 +49,16 @@ Hello! I'm ZenusLouis, a passionate Full Stack Web Developer with a keen interes
 
 ### Other
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-02569B?style=flat&logo=protocols-dot-io&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0170FE?style=flat&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=agile&logoColor=white)
 
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZenusLouis&theme=dark)](https://git.io/streak-stats)
+
+## 📊 Top Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenusLouis)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Top Projects
