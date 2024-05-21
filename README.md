@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 # Welcome to ZenusLouis's GitHub Profile! 👋
 
 Hello! I'm ZenusLouis, a passionate Full Stack Web Developer with a keen interest in creating efficient and scalable web applications. Welcome to my GitHub profile!
