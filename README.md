@@ -1,12 +1,15 @@
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 # Welcome to ZenusLouis's GitHub Profile! 👋
 
 Hello! I'm ZenusLouis, a passionate Full Stack Web Developer with a keen interest in creating efficient and scalable web applications. Welcome to my GitHub profile!
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ## About Me
 
 - 🌱 I’m currently learning advanced React and Node.js.
