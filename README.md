@@ -48,10 +48,6 @@ Hello! I'm ZenusLouis, a passionate Full Stack Web Developer with a keen interes
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-### Other
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-02569B?style=flat&logo=protocols-dot-io&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZenusLouis&theme=dark)](https://git.io/streak-stats)
