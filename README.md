@@ -51,8 +51,6 @@ Hello! I'm ZenusLouis, a passionate Full Stack Web Developer with a keen interes
 ### Other
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-02569B?style=flat&logo=protocols-dot-io&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0170FE?style=flat&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=agile&logoColor=white)
 
 ## 📈 GitHub Stats
 
