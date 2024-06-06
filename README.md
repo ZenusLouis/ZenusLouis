@@ -42,7 +42,7 @@ Hello! I'm ZenusLouis, a passionate Full Stack Web Developer with a keen interes
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### DevOps & Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat&logo=google-cloud&logoColor=white)
