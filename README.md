@@ -28,6 +28,7 @@ Hello! I'm ZenusLouis, a passionate Full Stack Web Developer with a keen interes
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/frontend-Angular-red?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -36,6 +37,8 @@ Hello! I'm ZenusLouis, a passionate Full Stack Web Developer with a keen interes
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dot-net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/backend-Spring%20Boot-green?logo=springboot)&logoColor=white)
+
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -57,8 +60,8 @@ Hello! I'm ZenusLouis, a passionate Full Stack Web Developer with a keen interes
 
 ## 🏆 Top Projects
 
-### [Project 1: E-commerce Website](https://github.com/ZenusLouis/ecommerce)
-A fully functional e-commerce website built with Next.js and Node.js.
+### [Project 1: Shopping Online Website](https://github.com/ZenusLouis/Spring-boot.git))
+A fully functional shopping website build with with spring boot and Angular.
 
 ## 📫 Let's Connect
 
