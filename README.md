@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</div>
+
 # Hi there 👋 I'm Duy Tan
 
 <div align="center">
@@ -93,19 +97,17 @@ AI-powered chat platform with modern frontend, backend APIs, and self-hosted dep
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/ZenusLouis?template=classic&base=header,activity,community,repositories&languages=1&languages.ignored=LLVM&languages.colors=github&languages.threshold=0%25&isocalendar=1&isocalendar.duration=half-year&achievements=1&achievements.threshold=C&achievements.secrets=1&achievements.display=detailed&config.timezone=Asia%2FHo_Chi_Minh&config.display=large" alt="GitHub Metrics" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
 
 ## 🧪 Currently Exploring
 
-```text
-🤖  Multi-agent AI Systems      ██████████░░░░
-🔧  Kubernetes                 ████████████░░
-☁️  Cloud Infrastructure       ███████████░░░
-🗃️  Database Engineering       ████████████░░
-```
+![Multi-agent AI](https://img.shields.io/badge/Multi--agent_AI-CrewAI_%7C_LangGraph-7F77DD?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Self--hosted_K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud-Infrastructure_as_Code-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Database](https://img.shields.io/badge/Database-Oracle_%E2%86%92_PostgreSQL_Migration-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
