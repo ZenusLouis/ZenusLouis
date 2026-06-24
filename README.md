@@ -1,73 +1,120 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-# Welcome to ZenusLouis's GitHub Profile! 👋
-
-Hello! I'm ZenusLouis, a passionate Full Stack Web Developer with a keen interest in creating efficient and scalable web applications. Welcome to my GitHub profile!
+# Hi there 👋 I'm Duy Tan
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;PostgreSQL+%7C+Docker+%7C+Kubernetes;Building+Scalable+Applications" alt="Typing SVG" />
 </div>
-
-## About Me
-
-- 🌱 I’m currently learning advanced React and Node.js.
-- 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with deploying full stack applications.
-- 💬 Ask me about anything related to web development.
-- ⚡ Fun fact: I love playing some games and solving puzzles.
-
-## 🛠️ Technologies & Tools
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Angular](https://img.shields.io/badge/frontend-Angular-red?style=flat&logo=angular&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dot-net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/backend-Spring%20Boot-green?style=flat&logo=springboot&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZenusLouis&theme=radical)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenusLouis&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🏆 Top Projects
-
-### [Project 1: Shopping Online Website](https://github.com/ZenusLouis/Spring-boot)
-A fully functional shopping website built with Spring Boot and Angular.
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ZenusLouis)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ZenusLouis)
-
-## 📜 License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-⭐️ From [ZenusLouis](https://github.com/ZenusLouis)
+## 🧑‍💻 About Me
+
+Full Stack Developer passionate about building scalable applications and modern cloud-native systems.
+
+- ⚙️ Building enterprise web applications with Java Spring Boot and React
+- 🗄️ Strong experience with PostgreSQL and database optimization
+- 🚀 Working with Docker, Kubernetes, and CI/CD pipelines
+- 🌐 Self-hosting enthusiast and homelab builder
+- 🤖 Exploring AI-powered automation and agent workflows
+- 💡 Interested in backend engineering, distributed systems, and DevOps
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🎯 What I Enjoy Building
+
+- Enterprise Web Applications
+- RESTful APIs
+- Cloud Native Applications
+- DevOps Automation
+- AI-assisted Workflows
+- Distributed Systems
+
+---
+
+## 🏆 Highlighted Projects
+
+### 🏢 Enterprise Application Platform *(ACB Bank — Internal)*
+
+Large-scale enterprise application supporting complex business workflows, approval processes, integrations, and transaction management.
+
+**Tech Stack:** Java Spring Boot, React, PostgreSQL
+
+### 🛒 [Shopping Online Website](https://github.com/ZenusLouis/Spring-boot)
+
+Full-featured e-commerce platform built with Spring Boot and Angular.
+
+**Features:** Authentication, Product Management, Orders, Administration
+
+### 🤖 Local AI Chat Application
+
+AI-powered chat platform with modern frontend, backend APIs, and self-hosted deployment infrastructure.
+
+**Tech Stack:** Angular, Spring Boot, Gemini API, Docker
+
+---
+
+## 📈 GitHub Metrics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/ZenusLouis?template=classic&base=header,activity,community,repositories&languages=1&languages.ignored=LLVM&languages.colors=github&languages.threshold=0%25&isocalendar=1&isocalendar.duration=half-year&achievements=1&achievements.threshold=C&achievements.secrets=1&achievements.display=detailed&config.timezone=Asia%2FHo_Chi_Minh&config.display=large" alt="GitHub Metrics" />
+</div>
+
+---
+
+## 🧪 Currently Exploring
+
+```text
+🤖  Multi-agent AI Systems      ██████████░░░░
+🔧  Kubernetes                 ████████████░░
+☁️  Cloud Infrastructure       ███████████░░░
+🗃️  Database Engineering       ████████████░░
+```
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/ZenusLouis
+
+---
+
+> "First, solve the problem. Then, write the code."
+
+⭐ Thanks for visiting my profile.
