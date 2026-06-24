@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="480" height="240"/>
 </div>
 
 # Hi there 👋 I'm Duy Tan
@@ -94,7 +94,14 @@ AI-powered chat platform with modern frontend, backend APIs, and self-hosted dep
 
 ---
 
-## 📈 GitHub Metrics
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZenusLouis&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenusLouis&layout=compact&theme=radical&hide_border=true&exclude_repo=MHike_MAUI&hide=jupyter%20notebook,llvm" height="180"/>
+</div>
+
+## 📊 GitHub Metrics
 
 <div align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
