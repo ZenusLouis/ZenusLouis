@@ -78,8 +78,6 @@ Full Stack Developer passionate about building scalable applications and modern 
 
 Large-scale enterprise application supporting complex business workflows, approval processes, integrations, and transaction management.
 
-**Tech Stack:** Java Spring Boot, React, PostgreSQL
-
 ### 🛒 [Shopping Online Website](https://github.com/ZenusLouis/Spring-boot)
 
 Full-featured e-commerce platform built with Spring Boot and Angular.
