@@ -74,10 +74,6 @@ Full Stack Developer passionate about building scalable applications and modern 
 
 ## 🏆 Highlighted Projects
 
-### 🏢 Enterprise Application Platform *(ACB Bank — Internal)*
-
-Large-scale enterprise application supporting complex business workflows, approval processes, integrations, and transaction management.
-
 ### 🛒 [Shopping Online Website](https://github.com/ZenusLouis/Spring-boot)
 
 Full-featured e-commerce platform built with Spring Boot and Angular.
